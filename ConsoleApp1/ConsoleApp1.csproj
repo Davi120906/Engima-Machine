@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType> <!-- Muda de Exe para WinExe para aplicativos Windows Forms -->
+    <TargetFramework>net9.0-windows</TargetFramework> <!-- Ou use uma versão mais estável, como net7.0-windows ou net6.0-windows -->
+    <UseWindowsForms>true</UseWindowsForms> <!-- Habilita o suporte a Windows Forms -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
