@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\Enigma\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\Enigma\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\Enigma\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\Enigma\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\davic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\davic\\OneDrive\\Desktop\\coisas de programação\\Enigma\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\davic\\AppData\\Roaming\\NuGet\\NuGet.Config"
