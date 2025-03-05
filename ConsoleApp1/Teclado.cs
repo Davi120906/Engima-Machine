@@ -24,29 +24,29 @@ public class Teclado : Form
         {
             if (tecla.Text.ToUpper() == l.ToString())
             {
-                tecla.BackColor = Color.Yellow;  // Altera a cor da tecla para amarelo
-                await Task.Delay(400);  // Aguarda 400 milissegundos sem bloquear o UI
-                tecla.BackColor = Color.LightGray;  // Retorna à cor original
+                tecla.BackColor = Color.Yellow;  
+                await Task.Delay(400); 
+                tecla.BackColor = Color.LightGray;  
             }
         }
     }
 
     private void CriarTeclado()
     {
-        int janelaLargura = 1500;  // Largura da janela
-        int janelaAltura = 800;    // Altura da janela
-        int espaco = 120;          // Espaçamento entre as teclas
+        int janelaLargura = 1500;
+        int janelaAltura = 800;  
+        int espaco = 120;        
 
-        // Tamanho das teclas (aumentado para torná-las maiores)
+
         int teclaLargura = 80;
         int teclaAltura = 80;
 
-        // Definindo a ordem das letras do teclado (como no layout QWERTY)
+     
         string[] linhas = new string[]
         {
-            "QWERTYUIOP",  // Primeira linha
-            "ASDFGHJKL",   // Segunda linha
-            "ZXCVBNM"      // Terceira linha
+            "QWERTYUIOP",  
+            "ASDFGHJKL",  
+            "ZXCVBNM"      
         };
 
         
